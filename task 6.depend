@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1556630236 source:c:\users\user\desktop\Программирование\2 семестр\task 6\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+
+1590418279 source:c:\users\rodio\desktop\vtoroy semestr\task 6\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<fstream>
+
